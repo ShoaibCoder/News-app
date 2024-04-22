@@ -22,9 +22,7 @@ const handleButtonClick = () =>{
       <div className="container-fluid " >
         <a className="navbar-brand" style={{marginBottom: "15px",borderBottomColor:"2px solid white" }}>
           <div className="logo-container" style={{display:"flex",flexWrap:"wrap"}}>
-          {/* <h2 className="tedxt" style={{paddingLeft:"40px",color:"black"}}>News-Time</h2> */}
           <img src="high2.png" id="img-logo" alt="" height={"120px"} width={"200px"} style={{overflow:"hidden"}}/>
-          {/* <h2 className="text fs-7" style={{paddingLeft:"40px",color:'darkgoldenrod',marginTop:"26px",marginRight:"10px",fontStyle:"italic"}}>News<span style={{color:'darkolivegreen',fontStyle:"italic"}}>Time</span></h2> */}
           </div>
           </a>
           <button className="navbar-toggler" type="button" 
